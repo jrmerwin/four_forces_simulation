@@ -15,14 +15,4 @@ Gravitational attraction operates through *differential residence time*, **not**
 
 This constitutes a discrete-lattice analog of the self-energy problem in continuous field theory — the mass's own radiation dominates the local potential evaluation, preventing direct gradient sensing. Macroscopic displacement emerges nevertheless because spatially non-uniform fission rates create asymmetric residence times, equivalent to Brownian motion in a potential well.
 
-### Registry mutagenesis results
-
-Systematic variation of the 16:40:81 partition across 15 mutant configurations confirms that:
-
-- **(a)** Sector capacity controls force strength  
-  (color confinement collapses when color capacity drops from 81 to 16)
-- **(b)** Weak decay rate scales linearly with $1/\textrm{TOTAL\_CAP}$  
-  ($R^2 = 0.84$, $p = 1.3 \times 10^{-6}$)
-- **(c)** Gravity is robust to timing synchronization, proving the trapping mechanism is **topological** rather than temporal
-
 These results constitute the first demonstration that four distinct force behaviors can organically emerge from identical registry overflow rules applied to a partitioned bit architecture.
